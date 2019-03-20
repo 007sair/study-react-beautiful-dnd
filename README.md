@@ -1,6 +1,6 @@
 # 视频教程源码
 
-为了学习`react-beautiful-dnd`，看了好几遍这个[入门视频](https://egghead.io/courses/beautiful-and-accessible-drag-and-drop-with-react-beautiful-dnd)，英语渣只能按照视频，一步一步的敲出来。
+为了学习`react-beautiful-dnd`，看了好几遍这个[入门视频](https://egghead.io/courses/beautiful-and-accessible-drag-and-drop-with-react-beautiful-dnd)，英语渣只能按照视频一字一字的敲出来。
 
 **视频目录如下：**
 
