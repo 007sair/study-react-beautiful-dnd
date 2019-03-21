@@ -13,7 +13,6 @@ const Container = styled.div`
       : props.isDragging
       ? "lightgreen"
       : "white"};
-
   display: flex;
 `;
 
@@ -27,6 +26,7 @@ const Handle = styled.div`
 
 class Task extends React.Component {
   render() {
+    // task-1 的任务不可拖拽
     // const isDragDisabled = this.props.task.id === 'task-1'
     const isDragDisabled = false;
     return (

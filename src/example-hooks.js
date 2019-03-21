@@ -11,10 +11,10 @@
 
 // onDragStart
 const start = {
-  draggableId: 'task-1',
-  type: 'TYPE',
+  draggableId: "task-1",
+  type: "TYPE",
   source: {
-    droppableId: 'column-1',
+    droppableId: "column-1",
     index: 0
   }
 };
@@ -23,7 +23,7 @@ const start = {
 const update = {
   ...start,
   destination: {
-    droppableId: 'column-1',
+    droppableId: "column-1",
     index: 1
   }
 };
@@ -31,5 +31,5 @@ const update = {
 // onDragEnd
 const result = {
   ...update,
-  reason: 'DROP'
-}
+  reason: "DROP"
+};
